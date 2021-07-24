@@ -3,6 +3,7 @@
 _installation
 - apt updated
 - apt upgrade
+- termux-setup-storage
 - pkg install git
 - git clone https://github.com/shiru313/OTP-BY-D.git
 - cd OTP-BY-D
