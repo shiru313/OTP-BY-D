@@ -1,4 +1,4 @@
-cd ec
+cd Fred
 sleep 2.0
 cat logo.txt
 slepp 2.0
@@ -23,9 +23,11 @@ echo
 if [[ ! $REPLY =~ ^[1234567890]$ ]]
 then
     [[ "$0" = "$BASH_SOURCE" ]] && exit 1 || return 1 
-fi
-cat wrong.txt
+
+
+
 sleep 2.0
 clear
-echo -e "${ENDCOLOR}incorrect number 👁️‍🗨️"
+
+cd
 
