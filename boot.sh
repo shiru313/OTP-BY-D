@@ -8,7 +8,7 @@ echo    #coder by noob hacker
 echo
 echo
 echo
-echo -e "${RED} use own risk I do not take responsibility for anything that happens with this 100 times"
+echo -e "${RED} use own risk I do not take responsibility for anything that happens with this 100 times.maby ure phone will factory reset"
 echo "[✔]===================================≠=========≠========================================[✔]";
 echo
 sleep 2.0
